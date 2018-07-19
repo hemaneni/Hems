@@ -1,0 +1,51 @@
+{"basics":
+  {
+  "image":"th.jpg",
+  "name":"hema",
+  "phoneno":"+91 9879979877",
+  "email":"hemaparvathaneni@gmail.com",
+  "address":"SRKR engineering college,Bhimavaram."
+},
+"careerobjective":{
+  "info":"To work in a progressive organization that incorporates varied spectrums of work & diversity, this endows consistency, competency & expertise in professional as well as social spheres, enabling collective excellence and technical growth, personal fulfillment with welcome attitude for new ideas and concepts to enhance the overall growth of the organization."
+
+},
+"education":[
+{  "degree":"Btech",
+  "institute":"SRKR ENGINEERING COLLEGE",
+  "data":["2016-2020","89.2%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"SRI CHAITANYA JUNIOR KALASALA",
+  "data":["2014-2016","98.4%"]
+
+},
+{
+  "degree":"SSC",
+  "institute":"SRI KAKATIYA MERIT SCHOOL",
+  "data":["2014","98.4%"]
+
+}
+],
+"skills":[
+  {
+    "title":"languages",
+    "data":["c","c++","java","python"]
+  },
+  {
+    "title":"database",
+    "data":["oracle","sql","mysql"]
+  },
+  {
+    "title":"operating systems",
+    "data":["sql","mysql","oracle"]
+  }
+],
+"achievements":{
+
+"ppt":"Got first prize in power point presentation.",
+"debate":"Achieved third prize in debate competition.",
+"quiz":"Secured second prize in Quiz competition."
+}
+}
